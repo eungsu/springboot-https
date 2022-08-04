@@ -15,7 +15,7 @@
 <script>
 	window.fbAsyncInit = function() {
 		FB.init({
-			appId : '1668594126857399',
+			appId : '{페이스북 앱 아이디}',
 			cookie : true,
 			xfbml : true,
 			version : 'v14.0'
